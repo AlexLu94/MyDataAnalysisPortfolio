@@ -27,7 +27,7 @@ An analysis of the AirBnb accommodations available in Brussels.
 
 ### Impact of vaccines
 
-An analysis of the positive impact of vaccines, based on the historical data provided by [Project Tycho.](https://www.tycho.pitt.edu).
+An analysis of the positive impact of vaccines, based on the historical data provided by [Project Tycho](https://www.tycho.pitt.edu).
 
 <table>
   <tr>
